@@ -1,5 +1,5 @@
-### Hi there 👋
-
+<h1 align="center">✨Hello, welcome to my GitHub profile.✨</h1>
+<h3 align="center">Fullstack Developer</h3>
 <!--
 **gonzafreddi/gonzafreddi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
