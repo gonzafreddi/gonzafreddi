@@ -19,6 +19,7 @@
 ![REDUX](https://img.shields.io/badge/redux-FF99FF?style=for-the-badge&logo=redux&logoColor=white)
 ![NODE](https://img.shields.io/badge/node-00FF00?style=for-the-badge&logo=node&logoColor=white)
 ![EXPRESS](https://img.shields.io/badge/express-00FF00?style=for-the-badge&logo=express&logoColor=black)
+![SEQUELIZE](https://img.shields.io/badge/sequelize-0174DF?style=for-the-badge&logo=sequelize&logoColor=white)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gonzafreddi)](https://github.com/anuraghazra/github-readme-stats) 
