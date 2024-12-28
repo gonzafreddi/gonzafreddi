@@ -4,6 +4,7 @@
   
 - 📫 How to reach me freddigonzalo17@gmail.com
 - 📲 Full Stack developer<br>
+- Work in ITECNIS.SRL <br>
 - ✏️ “I studied at SoyHenry BootCamp
   <h3 align="left">Connect with me:</h3>
 <p align="left">
